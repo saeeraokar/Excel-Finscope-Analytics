@@ -23,7 +23,8 @@ It helps visualize performance data, compare yearly growth, and uncover insights
 - Data Visualization
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/Excel Dashboard png .png)
+![Dashboard Preview](images/Excel%20Dashboard%20png.png)
+
 
 
 
