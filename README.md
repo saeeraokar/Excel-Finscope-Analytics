@@ -20,7 +20,12 @@ It helps visualize performance data, compare yearly growth, and uncover insights
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
 - Slicers and Filters  
-- Data Visualization  
+- Data Visualization
+
+## 📸 Dashboard Preview
+![Dashboard Preview](images/Excel Dashboard png .png)
+
+
 
 ## 📁 File
 - `excel project github.xlsx`
